@@ -214,7 +214,7 @@ function App() {
               component={Link}
               to="/"
             >
-              Help Line
+              VK
             </Typography>
           </Stack>
 

@@ -3,7 +3,7 @@ name: Build, Push Docker Image & Run Container
 on:
   push:
     branches:
-      - master  # Trigger the workflow on push to 'master' branch (or 'main' if that's your default)
+      - main  # Trigger the workflow on push to 'master' branch (or 'main' if that's your default)
 
 jobs:
   build:

@@ -214,7 +214,7 @@ function App() {
               component={Link}
               to="/"
             >
-              VK
+              VisionCare Scheduler
             </Typography>
           </Stack>
 
